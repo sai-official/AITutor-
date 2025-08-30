@@ -83,7 +83,7 @@ ollama serve
 
 ### 1. Start the App
 ```bash
-streamlit run ai_tutor_app.py
+streamlit run aitutor.py
 ```
 
 ### 2. Open Browser
